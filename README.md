@@ -20,7 +20,7 @@ bin/autobuild.sh
 
 可参考
 
-[]: https://blog.csdn.net/Solstice/article/details/5864889
+ https://blog.csdn.net/Solstice/article/details/5864889
 
 # 项目概述
 
