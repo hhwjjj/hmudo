@@ -1,3 +1,0 @@
-/home/ubuntu/hwj/MYMUDUO/build/CMakeFiles/mymuduo.dir
-/home/ubuntu/hwj/MYMUDUO/build/CMakeFiles/edit_cache.dir
-/home/ubuntu/hwj/MYMUDUO/build/CMakeFiles/rebuild_cache.dir
