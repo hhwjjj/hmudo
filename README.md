@@ -116,3 +116,6 @@ mainreactor 分发客户端连接
 #### TcpConnection
 
 将底层包装给用户使用
+
+####version2.0
+
